@@ -9,7 +9,7 @@ The Career Recommendation System using Machine Learning ML project aims to revol
 - Contact Email:Hackathon600@gmail.com
 
 
-## Project Overview =�
+## Project Overview :
 The Career Recommendation System using Machine Learning AI project aims to revolutionize the way individuals make critical career decisions.The project is an innovative use of AI in the field of career counseling. Its ability to continuously develop and evolve ultimately provides it the forefront. The system's recommendations get more accurate and refined as AI technologies advance and more and more information becomes available. In a world where industries and employment needs are always changing, this constant evolution guarantees that people are prepared for current and relevant career advice.
 **Purpose** The Career Recommendation System project's main goal is to use cutting-edge machine learning technology to offer highly customized career advise to individuals. The system seeks to match users with the best appropriate job routes by looking at their talents, education, hobbies, and industry trends. By lowering confusion and boosting confidence in one's career decisions, this project aims to simplify the difficult process of choosing a career path.
 **Goal**The main objective of the project is to improve people's professional results. In order to increase their job happiness and long-term success, this entails assisting them in identifying career choices that reflect their skills and passions. Specific goals is to developing precise prediction models, regularly updating recommendations to reflect shifting employment dynamics, and ensuring the system's accessibility and user-friendliness for a wide range of users 
@@ -17,7 +17,7 @@ The Career Recommendation System using Machine Learning AI project aims to revol
 **Significance**:The importance of this research depends on its capacity to empower individuals with personalized and data-driven insights so they may make wise career decisions. It will assist people in matching their skills and career goals with the best career paths, ultimately resulting in higher job satisfaction, increased productivity, and success in their careers.This Career Recommendation System aims to revolutionize how people begin their professional paths by utilizing machine learning and artificial intelligence, making the exploration of meaningful and satisfying occupations more accessible and attainable for everyone.
 
 
-## Tech Stack =�
+## Tech Stack :
 
 Here are the technologies and tools we used to build our AI solution:
 
