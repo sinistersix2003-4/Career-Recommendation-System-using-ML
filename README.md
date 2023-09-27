@@ -83,10 +83,9 @@ Real-Time Insights: Users benefit from up-to-date job market insights, ensuring 
 
 ## Screenshots and Demos =�
 
-Data Collection!![Alt text](iamge3-1.jpg) 
-Data processing![Alt text](image-2.png)![Alt text](image-3.png)
-Data Visualisation![
-Website creation !![Alt text](image4-1.jpg)
+Project Workflow: https://github.com/sinistersix2003-4/Career-Recommendation-System-using-ML/blob/main/Flowchart1.jpg
+Aptitude Visualization Demo:
+Website:
 
 ## Acknowledgments: 
 Special Thanks to our HOD Dr. Ravi Gor for giving us this opportunity. Also thanks to our mentors Saurabh Das and Naqibahmed Kadri for helping us to solve doubts and conflits through the project.
