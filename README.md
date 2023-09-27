@@ -24,7 +24,7 @@ Here are the technologies and tools we used to build our AI solution:
 example :
 
 
-* **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
+* **Python**
 * **Streamlit** 
 
 
