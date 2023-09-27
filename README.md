@@ -88,17 +88,22 @@ Solution: We employed advanced machine learning algorithms, including collaborat
 
 
 
-## Screenshots and Demos =�
+## Screenshots and Demos:
 
-Project Workflow:![Alt text]![Alt text](Flowchart1.jpg)
-Aptitude Visualization Demo: ![Alt text]![Alt text](aptitude_visualization.jpg)
-Website:![Alt text]![Alt text](image4-1.jpg)
+**Project Workflow:** 
+![Alt text]![Alt text](Flowchart1.jpg)
+
+**Aptitude Visualization Demo:** 
+![Alt text]![Alt text](aptitude_visualization.jpg)
+
+**Website:**
+![Alt text]![Alt text](image4-1.jpg)
 
 ## Acknowledgments: 
 Special Thanks to our HOD Dr. Ravi Gor for giving us this opportunity. Also thanks to our mentors Saurabh Das and Naqibahmed Kadri for helping us to solve doubts and conflits through the project.
 
 
-## Get In Touch! =�
+## Get In Touch:
 
 
 | Team Member | LinkedIn | Kaggle | Email |
